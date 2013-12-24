@@ -1,3 +1,13 @@
 /Website/bin
 /Website/_bin_deployableAssemblies
 /packages
+/TIS.GSP.Business/obj
+/TIS.GSP.Business/bin
+/TIS.GSP.Business.Interfaces/obj
+/TIS.GSP.Business.Interfaces/bin
+/TIS.GSP.Business.Resources/obj
+/TIS.GSP.Data/obj
+/TIS.GSP.Data/bin
+/TIS.GSP.Events/bin
+/TIS.GSP.Events/obj
+/Website/obj
