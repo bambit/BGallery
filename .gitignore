@@ -11,3 +11,10 @@
 /TIS.GSP.Events/bin
 /TIS.GSP.Events/obj
 /Website/obj
+
+/TIS.GSP.Business.Interfaces/App.config
+/TIS.GSP.Business/App.config
+
+/TIS.GSP.v11.suo
+
+/TIS.GSP.Events/App.config
