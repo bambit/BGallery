@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?> 
- <connectionStrings configSource="App_Data/connectionStrings.config">
+ <connectionStrings configSource="App_Data\connectionStrings.config">
     <clear />
     <add name="GalleryDb" providerName="System.Data.SqlServerCe.4.0" connectionString="data source=|DataDirectory|\GalleryData.sdf" />
     <!--<add name="GalleryDb" providerName="System.Data.SqlClient" connectionString="server=(local);uid=;pwd=;Trusted_Connection=yes;database=GalleryDb;Application Name=Gallery Server Pro;MultipleActiveResultSets=True" />-->

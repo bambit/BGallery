@@ -21,3 +21,5 @@
 
 /Website/App_Data/*.config
 /Website/App_Data/*.config
+
+/Website/*.user
