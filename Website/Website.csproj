@@ -293,6 +293,10 @@
     <Content Include="gs\skins\light\styles\slick.grid.css" />
     <Content Include="gs\skins\light\styles\throbber.gif" />
     <Content Include="CodeFiles\Entity\_EntityClassDiagram2.cd" />
+    <Content Include="App_Data\connectionStrings.config" />
+    <None Include="App_Data\connectionStrings.config.sample" />
+    <Content Include="App_Data\security.config" />
+    <None Include="App_Data\security.config.sample" />
     <None Include="_bin_deployableAssemblies\amd64\Microsoft.VC90.CRT\msvcr90.dll" />
     <None Include="_bin_deployableAssemblies\amd64\Microsoft.VC90.CRT\README_ENU.txt" />
     <None Include="_bin_deployableAssemblies\amd64\sqlceca40.dll" />
@@ -941,7 +945,6 @@
     <Content Include="gs\templates\UserNotificationAccountCreated.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\" />
     <Folder Include="CodeFiles\Interfaces\" />
     <Folder Include="gs\mediaobjects\" />
   </ItemGroup>

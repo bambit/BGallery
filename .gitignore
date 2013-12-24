@@ -18,3 +18,6 @@
 /TIS.GSP.v11.suo
 
 /TIS.GSP.Events/App.config
+
+/Website/App_Data/*.config
+/Website/App_Data/*.config
